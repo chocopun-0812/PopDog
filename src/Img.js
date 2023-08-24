@@ -1,4 +1,5 @@
 import './Img.css'
+
 function Img({onClick}){
 
     return (
