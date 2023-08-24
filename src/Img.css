@@ -1,0 +1,10 @@
+div[id="5"]{
+    background-repeat: no-repeat;
+    background-position: center;
+    height:400px;
+    background-image: url("./close.jpg");
+}
+
+div[id="5"]:active{
+    background-image: url("./open.jpg");
+}
