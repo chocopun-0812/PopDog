@@ -1,7 +1,7 @@
 import {React, useState} from 'react';
 import ReactDOM from 'react-dom/client';
-import Img from './Img';
-import Title from './Title';
+import Img from './components/Img';
+import Title from './components/Title';
 
 export default function PopDog() {
 
